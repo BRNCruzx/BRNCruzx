@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/bryan-cz/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="mailto:bryancrur@gmail.com">
+  <a href="bryancrur@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </div>
