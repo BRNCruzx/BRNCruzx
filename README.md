@@ -1,5 +1,11 @@
 <div align="center">
-  <h2>Olá, eu sou Bryan Cruz! 👋</h2>
+ <div align="center">
+  <a href="https://github.com/BRNCruzx">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2FD6E8&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Bryan+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
   <p>Desenvolvedor Backend & Entusiasta de Automação</p> 
   
   <a href="https://www.linkedin.com/in/bryan-cz/">
