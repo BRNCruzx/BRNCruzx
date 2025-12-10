@@ -6,7 +6,7 @@
 </div>
 
 <br>
-  <p>Desenvolvedor Backend & Entusiasta de Automação</p> 
+  <p>Desenvolvedor Backend & Analista de Sistema</p> 
   
   <a href="https://www.linkedin.com/in/bryan-cz/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
@@ -19,10 +19,10 @@
 <br>
 
 ### 🚀 Sobre mim
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🎓 Estudante de Sistemas de Informação.
 - 💼 Atualmente trabalhando com gestão e otimização de processos.
 - ☕ Focado em **Java (Spring Boot)** e **Python** para backend.
-- 🎯 Objetivo: Criar soluções escaláveis e sistemas de auditoria robustos.
+- 🎯 Objetivo: Criar soluções escaláveis.
 
 ---
 
@@ -40,4 +40,5 @@
 </div>
 
 <br>
+
 
