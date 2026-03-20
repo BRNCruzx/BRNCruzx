@@ -20,7 +20,7 @@
 
 ### 🚀 Sobre mim
 - 🎓 Estudante de Sistemas de Informação.
-- 💼 Atualmente trabalhando com gestão e otimização de processos.
+- 💼 Atualmente trabalhando como Analista de Suporte Júnior.
 - ☕ Focado em **Java (Spring Boot)** e **Python** para backend.
 - 🎯 Objetivo: Criar soluções escaláveis.
 
